@@ -1,5 +1,5 @@
 (function main() {
-    var countDownDate = new Date("Jan 1, 2022 00:00:00").getTime();
+    var countDownDate = new Date("Jan 1, 2023 00:00:00").getTime();
     var interval = setInterval(function() {
 
     var now = new Date().getTime();
