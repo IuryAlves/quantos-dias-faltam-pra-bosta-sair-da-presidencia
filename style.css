@@ -1,10 +1,16 @@
+body {
+    background-color: #74b9ff;
+    position: relative;
+}
+
+
 .acaba-logo {
     text-align: center;
     top: 35%;
-    left: 15%;
+    left: 25%;
+    display: inline-block;
     position: absolute;
-    background-color: #74b9ff;
     color: white;
-    font-size: 20px;
+    font-size: 1vw;
     font-family: verdana;
 }
