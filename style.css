@@ -7,10 +7,24 @@ body {
 .acaba-logo {
     text-align: center;
     top: 35%;
-    left: 25%;
     display: inline-block;
     position: absolute;
     color: white;
-    font-size: 1vw;
     font-family: verdana;
+}
+
+
+@media (max-width: 1400px) {
+    .acaba-logo {
+        font-size: 24px;
+        left: 5%;
+    }
+}
+
+
+@media (min-width: 1400px) {
+    .acaba-logo {
+        font-size: 16px;
+        left: 25%;
+    }
 }
