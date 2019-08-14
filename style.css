@@ -4,6 +4,12 @@ body {
 }
 
 
+.impeachment {
+    top: 50px;
+    position: relative;
+}
+
+
 .acaba-logo {
     text-align: center;
     top: 35%;
